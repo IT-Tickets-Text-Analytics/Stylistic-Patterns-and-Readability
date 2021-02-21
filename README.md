@@ -1,5 +1,5 @@
 # Readability
-The goal is to automate the extraction of knowledge reagrding the reading efforts or ticket text quality to provide decision support for IT process workers. We propose to measure the readability by the stylistic patterns, i.e., the ticket length, parts-of-speech distributions, and wording style (Zipf's Laws).
+The goal is to automate the extraction of knowledge reagrding the reading efforts or ticket text quality to provide decision support for IT process workers. We propose to measure the readability by the stylistic patterns, i.e., the ticket length, parts-of-speech distributions, and wording style (Zipf's Law).
 
 This repository contains the following files: python file for extracting readability measures (as an input for python files serve ticket textual descriptions), excel file with the calculation of readability based on the motivating example and threshold rules (as an input for excel file serve threshold rules), illustrative application of Zipf's Law on tickets (wording style) (Illustrative_Application_Zipf_Tickets.pdf).
 
